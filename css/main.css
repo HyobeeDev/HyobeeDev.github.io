@@ -1,0 +1,76 @@
+/* google font - Noto Sans KR */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+
+
+/*-------------------------common---------------------------*/
+* {margin: 0; padding: 0; color: #222;}
+li {list-style: none;}
+a {text-decoration: none;}
+
+
+
+/*-------------------------header---------------------------*/
+.header {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px;
+}
+.header__logo {
+  flex-grow: 1;
+  height: 40px;
+}
+.header__logo img {
+  width: auto;
+  height: 100%;
+}
+.header__logo h1 {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 20px;
+  line-height: 40px;
+  margin-left: 5px;
+
+}
+
+.header__search {display: none;}
+.header__search input {display: none;}
+.header__search button {
+  display: inline-block;
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
+.header__search button span {
+  line-height: 40px;
+}
+
+.ham__btn {
+  text-align: center;
+}
+.ham__btn span {
+  line-height: 40px;
+}
+.ham__menu {display: none;}
+
+
+
+
+
+
+
+
+
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+/*-------------------------text---------------------------*/
+
+
+
+
